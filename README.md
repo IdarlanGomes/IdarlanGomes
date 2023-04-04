@@ -6,7 +6,7 @@
 
 ![Idarlan Gomes stats](https://github-readme-stats.vercel.app/api?username=IdarlanGomes&show_icons=true&theme=dracula)
 
-![Tik Tok Clone](https://github-readme-stats.vercel.app/api/pin/?username=idarlangomes&repo=jornadadev)](https://github.com/idarlangomes/jornadadev)
+[![Tik Tok Clone](https://github-readme-stats.vercel.app/api/pin/?username=idarlangomes&repo=jornadadev)](https://github.com/idarlangomes/jornadadev)
 
 <!---
 IdarlanGomes/IdarlanGomes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
