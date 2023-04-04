@@ -1,3 +1,5 @@
+<h1>Presentation<h1/>
+
 - 👋 Hi, I’m @IdarlanGomes
 - 👀 I’m interested in  HTML, CSS e JAVASCRIPT.
 - 🌱 I’m currently learning CSS.
@@ -6,7 +8,7 @@
 
 ![Idarlan Gomes stats](https://github-readme-stats.vercel.app/api?username=IdarlanGomes&show_icons=true&theme=dracula)
 
-<h1>Featured Project</h1>
+<h2>Featured Project</h2>
 
 [![Tik Tok Clone](https://github-readme-stats.vercel.app/api/pin/?username=idarlangomes&repo=jornadadev)](https://github.com/idarlangomes/jornadadev)
 
