@@ -6,7 +6,7 @@
 
 ![Idarlan Gomes stats](https://github-readme-stats.vercel.app/api?username=IdarlanGomes&show_icons=true&theme=dracula)
 
-###Featured Project
+<h1>Featured Project</h1>
 
 [![Tik Tok Clone](https://github-readme-stats.vercel.app/api/pin/?username=idarlangomes&repo=jornadadev)](https://github.com/idarlangomes/jornadadev)
 
